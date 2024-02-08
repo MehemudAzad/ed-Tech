@@ -1,0 +1,93 @@
+[
+    {
+        "id":"0282e0e58a5c404fbd15261f11c2ab6a",
+        "participants": 30000,
+        "category_id":"01",
+        "name":"C",
+        "description_1":"C is a powerful mid to low-level compiled programming language used in operating systems, as the base for higher level languages like C++ and Python, and in high-performance applications. It excels in speed and performance giving the programmer great control over the system.",
+        "description_2":"The C language was created by Dennis Ritchie in Bell Labs in the 1970s. It was designed to be a system implementation language for the nascent Unix operating system.",
+        "quote":"C is the only programming language that exists for such a long period and still it is widely use. It was used to create linux operating system.",
+        "title":"Learn C Programming",
+        "image_url":"https://nareshit.com/wp-content/uploads/2018/08/C-Programming-online-training-nareshit.jpg",
+        "rating":"4.5",
+        "time_require": "20 hours",
+        "lessons":"17"
+
+        
+    },
+    {
+        "id":"0282e0e58a5c404fbd15261f11c2ab6b",
+        "participants": 30000,
+        "category_id":"02",
+        "name":"C++",
+        "description_1":"C++ is a very powerful programming language for performance-critical applications that rely on speed and efficient memory management. It’s used in a wide range of industries including software and game development, robotics, microcontrollers, VR/AR, and scientific computing.",
+        "description_2":"The C++ language was created by Bjarne Stroustrup at Bell Laboratories in 1979. As the name implies, C++ was derived from the C language; Bjarne’s goal was to add object-oriented programming into C, a language well-respected for its portability and low-level functionality.",
+        "quote":"According to Wikipedia, C++ has influenced many other programming languages, some of which include C#, Java and even newer versions of C. If C++ was never created, who knows what these programming languages would look like today.",
+        "title":"Learn C++ Programming",
+        "image_url":"https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+        "rating":"4.5",
+        "time_require": "20 hours",
+        "lessons":"17"
+        
+    },
+    {
+        "id":"0282e0e58a5c404fbd15261f11c2ab6c",
+        "participants": 30000,
+        "category_id":"03",
+        "name":"PYTHON",
+        "description_1":"Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because it’s concise and easy to read. Whatever you want to do, Python can do it. From data analysis to data visualization, web development to machine learning, Python is the language for you.",
+        "description_2":"It was created by Guido van Rossum in 1991 and was named after the British comedy show, Monty Python’s Flying Circus.",
+        "quote":"The language’s name isn’t about snakes, but about the popular British comedy troupe Monty Python (from the 1970s). Guido himself is a big fan of Monty Python’s Flying Circus. Being in a rather irreverent mood, he named the project ‘Python’. Isn’t it an interesting Python fact?",
+        "title":"Learn C Programming",
+        "image_url":"https://www.trio.dev/hubfs/Imported_Blog_Media/python_logo.jpg",
+        "rating":"4.5",
+        "time_require": "20 hours",
+        "lessons":"17"
+        
+    },
+    {
+        "id":"0282e0e58a5c404fbd15261f11c2ab6d",
+        "participants": 30000,
+        "category_id":"04",
+        "name":"JAVASCRIPT",
+        "description_1":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
+        "description_2":"The C++ language was created by Bjarne Stroustrup at Bell Laboratories in 1979. As the name implies, C++ was derived from the C language; Bjarne’s goal was to add object-oriented programming into C, a language well-respected for its portability and low-level functionality.",
+        "quote":"JavaScript took just 10 days to develop. ...JavaScript was probably named after Java. ... GitHub says JavaScript is the Most Popular language in the world. .. JavaScript is a flexible and powerful programming language ",
+        "title":"Learn C Programming",
+        "image_url":"https://www.interviewbit.com/blog/wp-content/uploads/2021/12/JavaScript-Projects.png",
+        "rating":"4.5",
+        "time_require": "20 hours",
+        "lessons":"17"
+        
+    },
+    {
+        "id":"0282e0e58a5c404fbd15261f11c2ab6e",
+        "participants": 30000,
+        "category_id":"05",
+        "name":"JAVA",
+        "description_1":"Java is one of the most popular programming languages out there. Released in 1995 and still widely used today, Java has many applications, including software development, mobile applications, and large systems development.",
+        "description_2":"The C++ language was created by Bjarne Stroustrup at Bell Laboratories in 1979. As the name implies, C++ was derived from the C language; Bjarne’s goal was to add object-oriented programming into C, a language well-respected for its portability and low-level functionality.",
+        "quote":"Java was called Oak at the beginning. Java was invented by accident. It is one of the highest paying languages. Java is the second most popular language after C.",
+        "title":"Learn JAVA Programming",
+        "image_url":"https://www.classcentral.com/report/wp-content/uploads/2022/05/Java-BCG-Banner.png",
+        "rating":"4.5",
+        "time_require": "20 hours",
+        "lessons":"17"
+        
+    },
+    {
+        "id":"0282e0e58a5c404fbd15261f11c2ab6f",
+        "participants": 30000,
+        "category_id":"06",
+        "name":"PHP",
+        "description_1":"PHP (a recursive acronym for “PHP Hypertext Preprocessor”) is a popular open-source scripting language widely used as a server-side tool for creating dynamic web pages.A big part of PHP’s value is its use as a dynamic scripting language that works hand-in-hand with HTML.",
+        "description_2":"A PHP interpreter makes a website dynamic and customizable, allowing a site to respond to user input or information in some expected way. The interpreter is a key link between the user and web server, databases, and the relevant files or responses sent back to that user.",
+        "quote":"The mascot of PHP is a big blue elephant. ‘Personal Home Page’ is the original name of PHP. Today,PHP is recognized as “PHP: Hypertext Preprocessor, ”. Although PHP is free but it is not distributed under GPL(General Public License).Over 244+ Million Websites use PHP.",
+        "title":"Learn PHP Programming",
+        "image_url":"https://miro.medium.com/max/1400/0*OrnfIdDuuZDX03YV",
+        "rating":"4.5",
+        "time_require": "20 hours",
+        "lessons":"17"
+        
+    }
+]
